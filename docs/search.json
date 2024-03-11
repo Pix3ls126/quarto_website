@@ -4,13 +4,13 @@
     "href": "index.html",
     "title": "Welcome to Aaron’s Website",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome to my website. My Name is Aaron Liu, currently a fourth year student at the University of Toronto studying computer science, statistics, and mathematics."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
     "section": "",
-    "text": "Hello! My name is Aaron Liu, and I am currently a fourth year computer science and statistics double major and math minor."
+    "text": "You can reach me at my Email: aaronxiaozhou.liu@mail.utoronto.ca"
   }
 ]

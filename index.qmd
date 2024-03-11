@@ -2,10 +2,7 @@
 title: "Welcome to Aaron's Website"
 ---
 
-This is a Quarto website.
+Welcome to my website. My Name is Aaron Liu, currently a fourth year student at the University of Toronto studying
+computer science, statistics, and mathematics.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+![](pic.jpg)
