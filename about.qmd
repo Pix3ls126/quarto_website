@@ -1,5 +1,0 @@
----
-title: "About"
----
-
-Hello! My name is Aaron Liu, and I am currently a fourth year computer science and statistics double major and math minor.
